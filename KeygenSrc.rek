@@ -1,0 +1,10 @@
+.const
+
+.data
+szHomePage db "http://www.365hz.net",0
+szEmail    db "mailto:ljyljx@163.com",0
+szErrMess  db "输入的序列号不正确！",0
+
+
+
+.code
